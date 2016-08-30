@@ -1,0 +1,20 @@
+{
+  "name": "must-have-func",
+  "version": "1.0.0",
+  "description": "little module to mandate functions on an object",
+  "keywords": "must,  have,  object,  require,  key,  value, nested, function, functions, func",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Philip Morris",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "jspath": "^0.3.3",
+    "underscore.string": "^3.3.4"
+  }
+}

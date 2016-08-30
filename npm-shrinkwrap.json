@@ -1,0 +1,28 @@
+{
+  "name": "must-have-func",
+  "version": "1.0.0",
+  "dependencies": {
+    "jspath": {
+      "version": "0.3.3",
+      "from": "jspath@latest",
+      "resolved": "https://registry.npmjs.org/jspath/-/jspath-0.3.3.tgz"
+    },
+    "underscore.string": {
+      "version": "3.3.4",
+      "from": "underscore.string@latest",
+      "resolved": "https://registry.npmjs.org/underscore.string/-/underscore.string-3.3.4.tgz",
+      "dependencies": {
+        "sprintf-js": {
+          "version": "1.0.3",
+          "from": "sprintf-js@>=1.0.3 <2.0.0",
+          "resolved": "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.3.tgz"
+        },
+        "util-deprecate": {
+          "version": "1.0.2",
+          "from": "util-deprecate@>=1.0.2 <2.0.0",
+          "resolved": "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz"
+        }
+      }
+    }
+  }
+}
